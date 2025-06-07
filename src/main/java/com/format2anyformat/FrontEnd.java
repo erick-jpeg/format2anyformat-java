@@ -1,5 +1,5 @@
 // Classe FrontEnd.java
-package com.conversor;
+package com.format2anyformat;
 
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;

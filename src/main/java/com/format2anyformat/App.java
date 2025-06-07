@@ -1,4 +1,4 @@
-package com.conversor;
+package com.format2anyformat;
 
 /**
  * Classe principal do programa

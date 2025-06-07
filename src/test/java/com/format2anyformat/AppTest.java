@@ -1,4 +1,4 @@
-package com.conversor;
+package com.format2anyformat;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
